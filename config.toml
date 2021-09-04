@@ -1,0 +1,11 @@
+theme = "bogster"
+
+[keys.normal]
+C-e = "scroll_down"
+C-y = "scroll_up"
+";" = "half_page_down"
+"'" = "half_page_up"
+"\\" = "align_view_center"
+
+[editor]
+mouse = false
