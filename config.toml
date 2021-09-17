@@ -6,6 +6,8 @@ C-y = "scroll_up"
 ";" = "half_page_down"
 "'" = "half_page_up"
 "\\" = "align_view_center"
+"H" = "goto_first_nonwhitespace"
+"L" = "goto_line_end"
 
 [editor]
 mouse = false
